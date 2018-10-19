@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe.config
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.pdb
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.exe
+C:\Users\bvalentic\source\repos\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.pdb

@@ -1,0 +1,6 @@
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe.config
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.pdb
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.exe
+C:\Users\bvalentic\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.pdb

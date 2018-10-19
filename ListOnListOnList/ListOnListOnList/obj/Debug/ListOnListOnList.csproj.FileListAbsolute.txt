@@ -1,0 +1,6 @@
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.exe.config
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.exe
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\bin\Debug\ListOnListOnList.pdb
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.exe
+C:\Users\bvalentic\source\repos\ListOnListOnList\ListOnListOnList\obj\Debug\ListOnListOnList.pdb
