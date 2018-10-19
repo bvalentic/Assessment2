@@ -44,7 +44,7 @@ namespace ToTheMax_
 
         static void GetMax(double[] numArray)
         {//loops through array to find largest value
-            double maxNum = 0.0;
+            double maxNum = numArray[0];
             foreach (var i in numArray)
             {
                 if (i > maxNum)
